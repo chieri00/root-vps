@@ -15,6 +15,9 @@ VPS应用环境：纯IPV4、纯IPV6、双栈IPV4+IPV6，
 ```
 bash <(curl -sSL https://cdn.jsdelivr.net/gh/kkkyg/vpsroot/root.sh)
 ```
+```
+bash <(curl -sSL https://github.com/chieri00/root-vps/root.sh)
+```
 
 用户名：root，密码必须自定义。
 
